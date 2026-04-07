@@ -1,1 +1,5 @@
-# plataforma-de-portif-lio-paara-alunos-t-cnicos-.app
+# Techportfólio para alunos técnicos
+Autores: 
+Laelson Pereira
+João Lucas 
+Izaac Gabriel

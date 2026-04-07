@@ -2,8 +2,11 @@
 
 ## 1. Introdução
 
+Trata-se de uma plataforma web responsiva para estudantes de cursos técnicos. permitirá que os alunos criem, organizem e compartilhem seus portfólios profissionais de forma simples, rápida e profissional.
+
 ### 1.1 Visao Geral
 
+A plataforma funcionará como um "currículo visual e interativo" onde o aluno poderá exibir seus projetos, estágios, habilidades e certificacoes, gerando um link publico que podera ser enviado para recrutadores e empresas 
 
 ### 1.2 Objetivos do Sistema
 
