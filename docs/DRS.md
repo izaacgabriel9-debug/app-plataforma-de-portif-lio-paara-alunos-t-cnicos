@@ -9,6 +9,10 @@ Trata-se de uma plataforma web responsiva para estudantes de cursos técnicos. p
 A plataforma funcionará como um "currículo visual e interativo" onde o aluno poderá exibir seus projetos, estágios, habilidades e certificacoes, gerando um link publico que podera ser enviado para recrutadores e empresas 
 
 ### 1.2 Objetivos do Sistema
+Facilitar a criação de portfólios com modelos prontos 
+Ajudar o aluno a se destacar no mercado de trabalho  
+Permitir compartilhamento fácil via link
+Organizador trabalhos acadêmicos e experiências 
 
 ### 1.3 Público Alvo
 
