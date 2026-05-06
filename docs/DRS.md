@@ -104,14 +104,14 @@ Módulo do Aluno
  
 - Linguagem: Node.js (JavaScript/TypeScript) ou PHP
 ​
-- Framework: NestJS, Express ou Laravel
+- Framework: Spring 
 ​
 - API: RESTful ou GraphQL
 
 #### 5.1.2 Stack Frontend
-- Linguagem: HTML5, CSS3, JavaScript/TypeScript
+- Linguagem: JavaScript/TypeScript
 ​
-- Framework: React, Vue.js ou Angular
+- Framework: spring 
 ​
 - Estilização: Tailwind CSS, Bootstrap ou SASS
 ​
