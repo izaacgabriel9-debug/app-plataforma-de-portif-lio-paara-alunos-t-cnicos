@@ -109,17 +109,17 @@ Módulo do Aluno
 - API: RESTful ou GraphQL
 
 #### 5.1.2 Stack Frontend
-- Linguagem: JavaScript/TypeScript
+- Linguagem: Node.js (JavaScript/TypeScript)
 ​
 - Framework: spring 
 ​
-- Estilização: Tailwind CSS, Bootstrap ou SASS
+- Estilização: Tailwind CSS, Bootstrap
 ​
 - Responsividade: Layout Flexbox/Grid adaptativo
 
 #### 5.1.7 Banco de Dados
 - Tipo: Relacional
 ​
-- Sistema: MySQL ou PostgreSQL
+- Sistema: MySQL
 
 ## 6. Modelo de Dados
