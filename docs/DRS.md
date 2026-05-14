@@ -102,7 +102,7 @@ Módulo do Aluno
 
 5.1.1 Stack Backend
  
-- Linguagem: Node.js (JavaScript/TypeScript) ou PHP
+- Linguagem: Java
 ​
 - Framework: Spring 
 ​
